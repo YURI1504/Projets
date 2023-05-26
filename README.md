@@ -23,4 +23,4 @@ Licence
 
 Ce référentiel est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
 
-N'oublie pas de personnaliser la description et le contenu du README en fonction de tes propres projets et informations. Assure-toi également de fournir des liens valides vers les projets et la documentation réelle dans le fichier README.
+
