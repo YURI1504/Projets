@@ -1,5 +1,5 @@
 # Projets
-Ce référentiel contient une collection de projets  développés dans le cadre de mes études en informatique et de mes recherches personnelles. Les projets sont regroupés en fonction de leur domaine : développement et data. 
+Ce référentiel contient une partie de ma collection de projets réalisés dans le cadre de mes études en informatique et de mes recherches personnelles. Les projets sont regroupés en fonction de leur domaine : développement(application) et data. 
 
 Projets de data
 
