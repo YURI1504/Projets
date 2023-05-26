@@ -6,7 +6,7 @@ Projets de data
     Projet Data 1 : EXOGEN : Générateur d’exercices de Base de données avec corrigées.
     Projet Data 2 : Intégration et Analyse de Données géolocalisées dans le but de comprendre les facteurs d’influence de la vitesse commerciale des bus de la société                     KEOLIS/STAR
     Projet Data 3 : Implémentation de diverses méthodes en Apprentissage automatique relative à un jeu de données portant sur la prédiction du prix des maisons.
-    Projet Data 4 : Conception/Développement de 02 cubes Mondrian 
+    Projet Data 4 : Conception/Développement de 02 cubes Mondrian (Open Food Fact)
     Projet Data 5 : Construction de classifieurs pour la reconnaissance de caractères
    
     
