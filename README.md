@@ -11,7 +11,7 @@ Projets de data
    
     
     
-Projets de développement
+Projets de développement d'applications
 
     Projet 1 : Application de note attribué à une bière après dégustation dégustation .
     Projet 2 : Application Mobile pour la planification des horaires du réseau STAR.
